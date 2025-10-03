@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, sóc l'Albert
 
-<!--
-**AlbertTeruel/AlbertTeruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em dic Albert, vaig néixer el 2007 i actualment estic estudiant un cicle formatiu de grau mitjà d'informàtica.  
 
-Here are some ideas to get you started:
+Estic fent pràctiques al departament d'IT de Labbox Labware, on aprenc i agafo experiència en el món de la informàtica.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objectius
+- Continuar formant-me en el camp de la informàtica  
+- Millorar les meves habilitats tècniques i de treball en equip  
+- Preparar-me per a futurs reptes acadèmics i professionals  
+
+## Interessos
+M'interessa la tecnologia, l'administració de sistemes i seguir aprenent dins l'àmbit IT.  
+
