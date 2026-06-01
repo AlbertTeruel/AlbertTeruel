@@ -46,5 +46,8 @@ Cada proyecto tiene su propia carpeta con tareas, productos, documentación y ev
 - Prepararme para futuros retos académicos y profesionales dentro del ámbito IT
 
 ---
-
+## Contacto
+- Correo electrónico: ateruel2007@gmail.com
+- LinkedIn: [Albert Teruel Olmedo](www.linkedin.com/in/albert-teruel-olmedo-01023a3b3)
+---
 *Última actualización: junio 2026*
