@@ -48,13 +48,3 @@ Cada proyecto tiene su propia carpeta con tareas, productos, documentación y ev
 ---
 
 *Última actualización: junio 2026*
-
-## Objectius
-
-- Continuar formant-me en administració de sistemes i xarxes
-- Millorar les meves habilitats tècniques i de treball en equip
-- Preparar-me per a futurs reptes acadèmics i professionals dins l'àmbit IT
-
----
-
-*Última actualització: juny 2026*
