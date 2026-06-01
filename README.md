@@ -1,18 +1,19 @@
-# Hola, sóc l'Albert
+# Hola, soy Albert
 
-Em dic Albert, vaig néixer el 2007 i estic estudiant un cicle formatiu de grau mitjà d'informàtica (SMX). M'interessa l'administració de sistemes, les xarxes i seguir aprenent dins l'àmbit IT.
-
----
-
-## Sobre mi
-
-- Estudiant de Sistemes Microinformàtics i Xarxes (SMX) · curs 25-26
-- Interessat en administració de sistemes Linux/Windows, xarxes i seguretat
-- Aprenent a treballar amb metodologies àgils i gestió de projectes IT
+Me llamo Albert, nací en 2007 y estoy estudiando un ciclo formativo de grado medio de informática (SMX). Me interesa la programación y seguir aprendiendo dentro del ámbito IT.
 
 ---
 
-## Tecnologies i eines
+## Sobre mí
+
+- Estudiante de Sistemas Microinformáticos y Redes (SMX) · curso 25-26
+- Interesado en programación y desarrollo de software
+- Aprendiendo a trabajar con metodologías ágiles y gestión de proyectos IT
+- Próximo paso: Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+---
+
+## Tecnologías y herramientas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,15 +29,25 @@ Em dic Albert, vaig néixer el 2007 i estic estudiant un cicle formatiu de grau 
 
 ---
 
-## Projecte destacat
+## Proyecto destacado
 
 ### [CURS-SMX-25-26](https://github.com/AlbertTeruel/CURS-SMX-25-26)
 
-Repositori principal del curs de Sistemes Microinformàtics i Xarxes 2025-26. Inclou 8 projectes treballats al llarg del curs: des de la gestió de projectes amb Kanban i el control de versions amb git, fins al desplegament de servidors Linux i Windows, serveis de xarxa (DNS, DHCP, NFS), seguretat (PKI, DRP, LOPD), disseny UX/UI amb Figma i consultoria IT per a empreses reals.
+Repositorio principal del curso de Sistemas Microinformáticos y Redes 2025-26. Incluye 8 proyectos trabajados a lo largo del curso: desde la gestión de proyectos con Kanban y el control de versiones con git, hasta el despliegue de servidores Linux y Windows, servicios de red (DNS, DHCP, NFS), seguridad (PKI, DRP, LOPD), diseño UX/UI con Figma y consultoría IT para empresas reales.
 
-Cada projecte té la seva pròpia carpeta amb tasques, productes, documentació i evidències.
+Cada proyecto tiene su propia carpeta con tareas, productos, documentación y evidencias.
 
 ---
+
+## Objetivos
+
+- Continuar formándome en programación y desarrollo de software
+- Cursar el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- Prepararme para futuros retos académicos y profesionales dentro del ámbito IT
+
+---
+
+*Última actualización: junio 2026*
 
 ## Objectius
 
