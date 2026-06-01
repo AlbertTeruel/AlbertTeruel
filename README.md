@@ -48,6 +48,6 @@ Cada proyecto tiene su propia carpeta con tareas, productos, documentación y ev
 ---
 ## Contacto
 - Correo electrónico: ateruel2007@gmail.com
-- LinkedIn: ![Albert Teruel Olmedo](www.linkedin.com/in/albert-teruel-olmedo-01023a3b3)
+- LinkedIn: [Albert Teruel Olmedo](https://www.linkedin.com/in/albert-teruel-olmedo-01023a3b3)
 ---
 *Última actualización: junio 2026*
