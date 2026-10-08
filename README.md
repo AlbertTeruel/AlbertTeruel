@@ -39,7 +39,7 @@ Cada proyecto tiene su propia carpeta con tareas, productos, documentación y ev
 
 ### [Bitacola i portafoli d'activitats del CFGS DAM](https://github.com/AlbertTeruel/Bitacola-i-portafoli-d-activitats-del-CFGS-DAM)
 
-### [univers cinematografic AlbertTeruel](https://github.com/AlbertTeruel/univers-cinematografic_AlbertTeruel)
+### [Univers Cinematografic AlbertTeruel](https://github.com/AlbertTeruel/univers-cinematografic_AlbertTeruel)
 ---
 
 ## Objetivos
