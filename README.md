@@ -37,8 +37,6 @@ Repositorio principal del curso de Sistemas Microinformáticos y Redes 2025-26. 
 
 Cada proyecto tiene su propia carpeta con tareas, productos, documentación y evidencias.
 
-### [Bitacola i portafoli d'activitats del CFGS DAM](https://github.com/AlbertTeruel/Bitacola-i-portafoli-d-activitats-del-CFGS-DAM)
-
 ### [Univers Cinematografic Albert Teruel](https://github.com/AlbertTeruel/univers-cinematografic_AlbertTeruel)
 
 ### [Univers Superherois Albert Teruel](https://github.com/AlbertTeruel/univers-superherois_AlbertTeruel)
